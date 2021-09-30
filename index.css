@@ -99,7 +99,7 @@ nav a{
     font-weight:bold;
 }
 .bg-img{
-    background-image: url('assests/footer_img.jpg');
+    background-image: url('assets/footer_img.jpg');
     height:50vh;
     background-repeat: no-repeat;
     background-size:cover;
